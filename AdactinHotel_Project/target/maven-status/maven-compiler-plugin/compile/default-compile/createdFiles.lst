@@ -1,0 +1,9 @@
+org\cucumber\maven\AdactinHotel_Project\AdactinBookingConfirmationPage.class
+org\cucumber\maven\AdactinHotel_Project\AdactinHomePage.class
+org\cucumber\maven\AdactinHotel_Project\AdactinLoginPage.class
+org\cucumber\maven\AdactinHotel_Project\AdactinBookedItenaryPage.class
+org\cucumber\maven\AdactinHotel_Project\AdactinBookHotelPage.class
+org\cucumber\maven\AdactinHotel_Project\PageObjectManager.class
+org\maven\helper\FileReaderManager.class
+org\cucumber\maven\AdactinHotel_Project\AdactinHotelPage.class
+org\maven\helper\ConfigReader.class
