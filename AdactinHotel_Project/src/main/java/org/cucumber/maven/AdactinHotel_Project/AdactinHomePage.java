@@ -45,6 +45,9 @@ public class AdactinHomePage {
 	public WebElement getErrorMessageCheckout() {
 		return errorMessageCheckout;
 	}
+	public void getMsg() {
+		System.out.println("Git Demo");
+	}
 
 	public WebElement getLocationDD() {
 		return locationDD;
