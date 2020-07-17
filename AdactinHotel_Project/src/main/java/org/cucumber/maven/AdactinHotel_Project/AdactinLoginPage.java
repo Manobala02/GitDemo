@@ -40,6 +40,12 @@ public class AdactinLoginPage {
 	}
 
 	public WebElement getUserInputField() {
+		System.out.println("hiii");
+		
+		System.out.println("say hii");
+		
+		System.out.println("hai bro");
+		
 		return userInputField;
 	}
 
