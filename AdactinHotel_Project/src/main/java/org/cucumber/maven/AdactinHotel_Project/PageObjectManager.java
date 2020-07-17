@@ -21,6 +21,8 @@ public class PageObjectManager {
 	}
 
 	public AdactinBookingConfirmationPage getBcp() {
+		
+		System.out.println("Datadriventesting");
 		if (bcp==null) {
 			bcp = new AdactinBookingConfirmationPage(driver);
 		}
